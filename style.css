@@ -155,7 +155,9 @@ ul {
     border: 0;
     line-height: 1;
 }
-
+.btn:hover{
+    background-color: rgb(206, 10, 20);
+}
 
 .btn:active {
     transform: scale(0.96);
